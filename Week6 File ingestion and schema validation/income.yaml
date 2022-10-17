@@ -1,0 +1,11 @@
+file_type: csv
+dataset_name: testfile
+file_name: Income_Expense_Data_Big
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Age
+    - Income
+    - Expense

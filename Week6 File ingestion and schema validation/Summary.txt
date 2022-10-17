@@ -1,0 +1,4 @@
+After qriting data into text file data_in_text.txt :
+Total number of rows 2072109
+total number of columns 1
+Size of file : 0.23350627720355988 gb
